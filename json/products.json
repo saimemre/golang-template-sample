@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "Name": "Apple Iphone X",
+        "Categories": ""
+    },
+    {
+        "ID": 2,
+        "Name": "Apple Kullaklık",
+        "Categories": ""
+    },
+    {
+        "ID": 3,
+        "Name": "Apple Mabook Pro",
+        "Categories": ""
+    },
+    {
+        "ID": 4,
+        "Name": "Samsung S9",
+        "Categories": ""
+    },
+    {
+        "ID": 5,
+        "Name": "Nokia 3310",
+        "Categories": ""
+    },
+    {
+        "ID": 6,
+        "Name": "Ericcson A 1018",
+        "Categories": ""
+    }
+]

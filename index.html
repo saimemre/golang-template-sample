@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{.Page.Title}}</title>
+</head>
+<body>
+    <h1>{{.Page.Title}}</h1>
+    {{range .Products}}
+    <h4>{{.Name}}</h4>
+    <p>
+        Kategoriler
+        <ul>
+        {{range .Categories}}
+            <li>{{.ID}} - {{.Name}}</li>
+        {{end}}
+        </ul>
+    </p>
+    <hr />
+    {{end}}
+</body>
+</html>
